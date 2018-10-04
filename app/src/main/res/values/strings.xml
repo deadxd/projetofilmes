@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ProjetoFilmeSeries</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="nome_usuario">Usuário</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="logout">Logout</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="topRated">Top Rated</string>
+    <string name="topPopular">Top Popular</string>
+    <string name="lancamentos">Lançamentos</string>
+    <string name="name">nome</string>
+</resources>
